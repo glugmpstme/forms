@@ -1,3 +1,3 @@
 # forms
 
-An only-frontend GitHub page
+A GitHub page in line with google forms.
